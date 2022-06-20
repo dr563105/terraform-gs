@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+models/
+input/
+artifacts/
+*.db
+mlruns/
+output/
+*.b
+*.bin
+sample/
+docker-compose
+*__pycache__*
+**/.terraform/*
+*.tfstate
+*.tfstate.*
